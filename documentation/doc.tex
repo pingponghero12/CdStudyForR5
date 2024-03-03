@@ -1,0 +1,88 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\usepackage{physics}
+\usepackage{comment}
+\usepackage{amsmath}
+\usepackage[margin=2.5cm]{geometry}
+
+\usepackage{nomencl}
+\makenomenclature
+
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+
+\title{Drag coefficient as a function of Mach number for PrawieR5 rocket}
+\author{Manfred Gawlas}
+\date{03.03.2024}
+
+
+\begin{document}
+\maketitle
+
+\begin{comment}
+	This documents shows resoults of flow simulations preformed in Solidworks on PrawieR5 rocket model. From those resoults graphs of drag coefficient as 		function of Mach number are then later analysed and compared to other in literature. Document also shows meshes and information about simulations.
+\end{comment}
+
+\begin{abstract}
+	This paper presents the results of flow simulations conducted in Solidworks for the PrawieR5 rocket model. The ensuing drag coefficient graphs, as a 			function of Mach number, are analyzed and compared with existing literature data. Additionally, the document discusses the utilized meshes and 				presents futher information about few choosen simulations.
+\end{abstract}
+
+\nomenclature{\(C_d\)}{Drag coefficient}
+\nomenclature{\(A\)}{Area of cross-section of rocket}
+\nomenclature{\(v\)}{Relative velocity}
+\nomenclature{\(M\)}{Mach number}
+\nomenclature{\(\rho\)}{Density of Air}
+\nomenclature{\(p_s\)}{Static pressure}
+\nomenclature{\(p_d\)}{Dynamic pressure}
+\nomenclature{\(p_0\)}{Total pressure}
+\nomenclature{\(k\)}{Specific heat ratio}
+\printnomenclature
+
+\section{Problem of drag coefficient}
+	\begin{comment}
+	This simple study will not take into account the complex nature of aerodynamic drag and will simplify drag effect to a simple equation for geometric and 		friction forces. This is to introduce a single drag coefficient, which we will treat as a function of Mach number. In that regard this study will strive to give 			similar plot to the ones for projectiles in Modern Exterior Ballistics.
+	\end{comment}
+	This basic study does not take into account the complex nature of aerodynamic drag and simplifies drag effect to a one minimal equation for geometric 			and friction forces. The aim is to establish a singular drag coefficient, treated as a function of Mach number. This study seeks to produce plot resembling 			those found in Modern Exterior Ballistics for projectiles.
+
+	\subsection{Basic physics used in study}
+		This study will focus on one drag coefficient, which in this case will be determined with usage of the equation for isentropic compressible 					flow.
+		
+		\begin{equation}
+		p_d = p_s\cdot (1 + \frac{k-1}{2}M^2)^{\frac{k}{k-1}}-p_s
+		\end{equation}
+		This $p_d$ in now used in equation for aerodynamic drag:
+		
+		\begin{equation}
+		F_d = C_d \cdot A \cdot p_d
+		\end{equation}
+
+	\subsection{CFD model}
+	\begin{comment}
+	Like mentioned already, simulations were conducted in Solidworks Flow Simulations. Initial conditions were: Mach number was changed by velocity 				changes. Depending on simulation, different meshes were used for low mach and high mach parametric studies. For the high mach parametric study(>=3 		mach flow) high mach flow option was used in Solidworks settings. 
+	\end{comment}
+As mentioned previously, simulations were conducted using Solidworks Flow Simulations. Initial conditions of simulation:
+
+Mach number change was dependant only on changes in velocity. Depending on the simulation, different meshes were applied for parametric studies at low and high Mach numbers. For high Mach parametric studies (Mach number greater than or equal to 3), the high Mach flow option in Solidworks settings was utilized.
+
+
+\section{Initial studies}
+
+\section{Parametric study for low mach}
+
+\section{Parametric study for high mach}
+
+\section{Resoults}
+
+\begin{thebibliography}{9}
+	\bibitem{Exterior balistics}
+	Robert L. McCoy (1999) Modern Exterior Ballistics: The Launch and Flight Dynamics of Symmetric Projectiles, Schiffer Military History
+\end{thebibliography}
+
+\end{document}
