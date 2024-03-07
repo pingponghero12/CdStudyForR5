@@ -1,0 +1,11 @@
+
+\begin{thenomenclature} 
+\nomgroup{A}
+  \item [{\(\rho\)}]\begingroup Density of Air\nomeqref {0}\nompageref{1}
+  \item [{\(A\)}]\begingroup Area of cross-section of rocket\nomeqref {0}\nompageref{1}
+  \item [{\(C_d\)}]\begingroup Drag coefficient\nomeqref {0}\nompageref{1}
+  \item [{\(k\)}]\begingroup Specific heat ratio\nomeqref {0}\nompageref{1}
+  \item [{\(M\)}]\begingroup Mach number\nomeqref {0}\nompageref{1}
+  \item [{\(v\)}]\begingroup Relative velocity\nomeqref {0}\nompageref{1}
+
+\end{thenomenclature}

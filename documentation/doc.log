@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.8.3)  3 MAR 2024 14:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.8.3)  7 MAR 2024 11:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -271,24 +271,50 @@ LaTeX Info: Redefining \] on input line 2954.
 \CommentStream=\write3
 
 Excluding comment 'comment')
-(/home/prlpnrpph512/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+(/home/prlpnrpph512/.miktex/texmfs/install/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count284
+\float@exts=\toks24
+\float@box=\box54
+\@float@everytoks=\toks25
+\@floatcapt=\box55
+)
+(/home/prlpnrpph512/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/home/prlpnrpph512/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/home/prlpnrpph512/.miktex/texmfs/install/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/home/prlpnrpph512/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+(/home/prlpnrpph512/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen154
+\Gin@req@width=\dimen155
+) (/home/prlpnrpph512/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
 (/home/prlpnrpph512/.miktex/texmfs/install/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count284
-\Gm@cntv=\count285
-\c@Gm@tempcnt=\count286
-\Gm@bindingoffset=\dimen154
-\Gm@wd@mp=\dimen155
-\Gm@odd@mp=\dimen156
-\Gm@even@mp=\dimen157
-\Gm@layoutwidth=\dimen158
-\Gm@layoutheight=\dimen159
-\Gm@layouthoffset=\dimen160
-\Gm@layoutvoffset=\dimen161
-\Gm@dimlist=\toks24
+\Gm@cnth=\count285
+\Gm@cntv=\count286
+\c@Gm@tempcnt=\count287
+\Gm@bindingoffset=\dimen156
+\Gm@wd@mp=\dimen157
+\Gm@odd@mp=\dimen158
+\Gm@even@mp=\dimen159
+\Gm@layoutwidth=\dimen160
+\Gm@layoutheight=\dimen161
+\Gm@layouthoffset=\dimen162
+\Gm@layoutvoffset=\dimen163
+\Gm@dimlist=\toks26
 
 (/home/prlpnrpph512/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg))
 (/home/prlpnrpph512/.miktex/texmfs/install/tex/latex/nomencl/nomencl.sty
@@ -299,10 +325,10 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
 (/home/prlpnrpph512/.miktex/texmfs/install/tex/generic/xkeyval/xkeyval.tex
 (/home/prlpnrpph512/.miktex/texmfs/install/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks25
-\XKV@tempa@toks=\toks26
+\XKV@toks=\toks27
+\XKV@tempa@toks=\toks28
 )
-\XKV@depth=\count287
+\XKV@depth=\count288
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/home/prlpnrpph512/.miktex/texmfs/install/tex/latex/base/ifthen.sty
@@ -331,42 +357,42 @@ Already applied: [0000/00/00] Usage of raw or classic option list on input line
  368.
 )
 \scr@dte@tocline@numberwidth=\skip54
-\scr@dte@tocline@numbox=\box54
+\scr@dte@tocline@numbox=\box56
 )
 Package tocbasic Info: omitting babel extension for `nlo'
 (tocbasic)             because of missing \bbl@set@language on input line 187.
 Package tocbasic Info: omitting babel extension for `nls'
 (tocbasic)             because of missing \bbl@set@language on input line 188.
-\nomlabelwidth=\dimen162
-\nom@tempdim=\dimen163
+\nomlabelwidth=\dimen164
+\nom@tempdim=\dimen165
 \nomitemsep=\skip55
 )
 \@nomenclaturefile=\write4
 \openout4 = `doc.nlo'.
 
-Package nomencl Info: Writing nomenclature file doc.nlo on input line 11.
-Package hyperref Info: Option `colorlinks' set `true' on input line 19.
+Package nomencl Info: Writing nomenclature file doc.nlo on input line 15.
+Package hyperref Info: Option `colorlinks' set `true' on input line 23.
  (doc.aux)
 \openout1 = `doc.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
 
 (/home/prlpnrpph512/.miktex/texmfs/install/tex/latex/graphics/color.sty
 Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
@@ -376,30 +402,37 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
 
-(/home/prlpnrpph512/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+(/home/prlpnrpph512/.miktex/texmfs/install/tex/latex/graphics/mathcolor.ltx))
+Package hyperref Info: Link coloring ON on input line 30.
 
-(/home/prlpnrpph512/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count288
-\scratchdimen=\dimen164
-\scratchbox=\box55
-\nofMPsegments=\count289
-\nofMParguments=\count290
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count291
-\MPscratchDim=\dimen165
-\MPnumerator=\count292
-\makeMPintoPDFobject=\count293
-\everyMPtoPDFconversion=\toks28
-)) (/home/prlpnrpph512/.miktex/texmfs/install/tex/latex/graphics/mathcolor.ltx)
-)
-Package hyperref Info: Link coloring ON on input line 26.
- (doc.out) (doc.out)
+(doc.out) (doc.out)
 \@outlinefile=\write5
 \openout5 = `doc.out'.
 
 
+(/home/prlpnrpph512/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count289
+\scratchdimen=\dimen166
+\scratchbox=\box57
+\nofMPsegments=\count290
+\nofMParguments=\count291
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count292
+\MPscratchDim=\dimen167
+\MPnumerator=\count293
+\makeMPintoPDFobject=\count294
+\everyMPtoPDFconversion=\toks30
+)
+(/home/prlpnrpph512/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base
+.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/home/prlpnrpph512/.miktex/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -434,37 +467,277 @@ Package hyperref Info: Link coloring ON on input line 26.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 28.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 32.
 
 (/home/prlpnrpph512/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 32.
 
 
 (/home/prlpnrpph512/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 Excluding 'comment' comment. (doc.nls) Excluding 'comment' comment.
-Excluding 'comment' comment. [1
+Excluding 'comment' comment.
+<../FinalData/GENERALSETTING.png, id=76, 456.20438pt x 366.61969pt>
+File: ../FinalData/GENERALSETTING.png Graphic file (type png)
+<use ../FinalData/GENERALSETTING.png>
+Package pdftex.def Info: ../FinalData/GENERALSETTING.png  used on input line 71
+.
+(pdftex.def)             Requested size: 456.20325pt x 366.61879pt.
+ [1
 
-{/home/prlpnrpph512/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}] [2] (doc.
-aux)
+{/home/prlpnrpph512/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}]
+<../EarlyData/Mach1Mesh.png, id=97, 1149.5447pt x 461.47406pt>
+File: ../EarlyData/Mach1Mesh.png Graphic file (type png)
+<use ../EarlyData/Mach1Mesh.png>
+Package pdftex.def Info: ../EarlyData/Mach1Mesh.png  used on input line 85.
+(pdftex.def)             Requested size: 472.03123pt x 189.49428pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--88
+
+ []
+
+[2
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.89 \subsection
+                {High mach setting on for Mach 0.8} <../FinalData/GENERALSETTIN
+G.png>]
+<../EarlyData/Mach08Speed.png, id=103, 1149.5447pt x 461.47406pt>
+File: ../EarlyData/Mach08Speed.png Graphic file (type png)
+<use ../EarlyData/Mach08Speed.png>
+Package pdftex.def Info: ../EarlyData/Mach08Speed.png  used on input line 92.
+(pdftex.def)             Requested size: 472.03123pt x 189.49428pt.
+<../EarlyData/Mach08Pressure.png, id=104, 1149.5447pt x 461.47406pt>
+File: ../EarlyData/Mach08Pressure.png Graphic file (type png)
+<use ../EarlyData/Mach08Pressure.png>
+Package pdftex.def Info: ../EarlyData/Mach08Pressure.png  used on input line 99
+.
+(pdftex.def)             Requested size: 472.03123pt x 189.49428pt.
+ [3
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.103 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.103 
+       <../EarlyData/Mach1Mesh.png> <../EarlyData/Mach08Speed.png>]
+<../EarlyData/Mach1Speed.png, id=111, 1149.5447pt x 461.47406pt>
+File: ../EarlyData/Mach1Speed.png Graphic file (type png)
+<use ../EarlyData/Mach1Speed.png>
+Package pdftex.def Info: ../EarlyData/Mach1Speed.png  used on input line 107.
+(pdftex.def)             Requested size: 472.03123pt x 189.49428pt.
+<../EarlyData/Mach1Pressure.png, id=112, 1149.5447pt x 461.47406pt>
+File: ../EarlyData/Mach1Pressure.png Graphic file (type png)
+<use ../EarlyData/Mach1Pressure.png>
+Package pdftex.def Info: ../EarlyData/Mach1Pressure.png  used on input line 114
+.
+(pdftex.def)             Requested size: 472.03123pt x 189.49428pt.
+ [4
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.118 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.118 
+       <../EarlyData/Mach08Pressure.png> <../EarlyData/Mach1Speed.png>]
+<../FinalData/MESHCELLS.png, id=119, 414.04688pt x 99.37125pt>
+File: ../FinalData/MESHCELLS.png Graphic file (type png)
+<use ../FinalData/MESHCELLS.png>
+Package pdftex.def Info: ../FinalData/MESHCELLS.png  used on input line 128.
+(pdftex.def)             Requested size: 472.03123pt x 113.29045pt.
+<../FinalData/FinalMESH.png, id=120, 1149.5447pt x 461.47406pt>
+File: ../FinalData/FinalMESH.png Graphic file (type png)
+<use ../FinalData/FinalMESH.png>
+Package pdftex.def Info: ../FinalData/FinalMESH.png  used on input line 135.
+(pdftex.def)             Requested size: 472.03123pt x 189.49428pt.
+
+[5
+pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.139 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.139 
+       <../EarlyData/Mach1Pressure.png> <../FinalData/MESHCELLS.png>]
+<../FinalData/Final10Speed.png, id=127, 1179.65718pt x 461.47406pt>
+File: ../FinalData/Final10Speed.png Graphic file (type png)
+<use ../FinalData/Final10Speed.png>
+Package pdftex.def Info: ../FinalData/Final10Speed.png  used on input line 143.
+
+(pdftex.def)             Requested size: 472.03123pt x 184.65675pt.
+<../FinalData/Final10Pressure.png, id=128, 1179.65718pt x 461.47406pt>
+File: ../FinalData/Final10Pressure.png Graphic file (type png)
+<use ../FinalData/Final10Pressure.png>
+Package pdftex.def Info: ../FinalData/Final10Pressure.png  used on input line 1
+50.
+(pdftex.def)             Requested size: 472.03123pt x 184.65675pt.
+ [6
+pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.154 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.154 
+       <../FinalData/FinalMESH.png> <../FinalData/Final10Speed.png>]
+<../FinalData/Final16Speed.png, id=135, 1179.65718pt x 461.47406pt>
+File: ../FinalData/Final16Speed.png Graphic file (type png)
+<use ../FinalData/Final16Speed.png>
+Package pdftex.def Info: ../FinalData/Final16Speed.png  used on input line 158.
+
+(pdftex.def)             Requested size: 472.03123pt x 184.65675pt.
+<../FinalData/Final16Pressure.png, id=136, 1179.65718pt x 461.47406pt>
+File: ../FinalData/Final16Pressure.png Graphic file (type png)
+<use ../FinalData/Final16Pressure.png>
+Package pdftex.def Info: ../FinalData/Final16Pressure.png  used on input line 1
+65.
+(pdftex.def)             Requested size: 472.03123pt x 184.65675pt.
+ [7
+pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.169 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.169 
+       <../FinalData/Final10Pressure.png> <../FinalData/Final16Speed.png>]
+<../FinalData/Final25Speed.png, id=144, 1149.5447pt x 461.47406pt>
+File: ../FinalData/Final25Speed.png Graphic file (type png)
+<use ../FinalData/Final25Speed.png>
+Package pdftex.def Info: ../FinalData/Final25Speed.png  used on input line 173.
+
+(pdftex.def)             Requested size: 472.03123pt x 189.49428pt.
+<../FinalData/Final25Pressure.png, id=145, 1149.5447pt x 461.47406pt>
+File: ../FinalData/Final25Pressure.png Graphic file (type png)
+<use ../FinalData/Final25Pressure.png>
+Package pdftex.def Info: ../FinalData/Final25Pressure.png  used on input line 1
+80.
+(pdftex.def)             Requested size: 472.03123pt x 189.49428pt.
+
+[8
+pdfTeX warning (ext4): destination with the same identifier (name{figure.12}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.184 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.13}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.184 
+       <../FinalData/Final16Pressure.png> <../FinalData/Final25Speed.png>]
+
+pdfTeX warning: miktex-pdftex (file ../FinalData/CD25.pdf): PDF inclusion: foun
+d PDF version <1.7>, but at most version <1.5> allowed
+<../FinalData/CD25.pdf, id=153, 845.07724pt x 597.55246pt>
+File: ../FinalData/CD25.pdf Graphic file (type pdf)
+<use ../FinalData/CD25.pdf>
+Package pdftex.def Info: ../FinalData/CD25.pdf  used on input line 198.
+(pdftex.def)             Requested size: 472.03123pt x 333.77pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--201
+
+ []
+
+[9
+pdfTeX warning (ext4): destination with the same identifier (name{figure.14}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.202 
+       <../FinalData/Final25Pressure.png>]
+<../FinalData/MEBgraphNOZECONE.png, id=159, 1515.6625pt x 804.00375pt>
+File: ../FinalData/MEBgraphNOZECONE.png Graphic file (type png)
+<use ../FinalData/MEBgraphNOZECONE.png>
+Package pdftex.def Info: ../FinalData/MEBgraphNOZECONE.png  used on input line 
+205.
+(pdftex.def)             Requested size: 377.62642pt x 200.31343pt.
+
+
+pdfTeX warning: miktex-pdftex (file ../FinalData/CD50.pdf): PDF inclusion: foun
+d PDF version <1.7>, but at most version <1.5> allowed
+<../FinalData/CD50.pdf, id=161, 845.07724pt x 597.55246pt>
+File: ../FinalData/CD50.pdf Graphic file (type pdf)
+<use ../FinalData/CD50.pdf>
+Package pdftex.def Info: ../FinalData/CD50.pdf  used on input line 212.
+(pdftex.def)             Requested size: 472.03123pt x 333.77pt.
+[10
+pdfTeX warning (ext4): destination with the same identifier (name{figure.15}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.216 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.16}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.216 
+       <../FinalData/CD25.pdf> <../FinalData/MEBgraphNOZECONE.png>]
+<../FinalData/MEBgraphRocket.png, id=177, 1495.5875pt x 772.8875pt>
+File: ../FinalData/MEBgraphRocket.png Graphic file (type png)
+<use ../FinalData/MEBgraphRocket.png>
+Package pdftex.def Info: ../FinalData/MEBgraphRocket.png  used on input line 21
+9.
+(pdftex.def)             Requested size: 377.62642pt x 195.1437pt.
+ [11
+pdfTeX warning (ext4): destination with the same identifier (name{figure.17}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.229 \end{thebibliography}
+                           
+pdfTeX warning (ext4): destination with the same identifier (name{figure.18}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.229 \end{thebibliography}
+                            <../FinalData/CD50.pdf> <../FinalData/MEBgraphRocke
+t.png>] [12] (doc.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-06-30>
  ***********
 Package rerunfilecheck Info: File `doc.out' has not changed.
-(rerunfilecheck)             Checksum: D272523DC5950A6D47A2189F9C2984BE;1105.
+(rerunfilecheck)             Checksum: 2774554EB558569D581DF4BC1ECFE36D;2824.
  ) 
 Here is how much of TeX's memory you used:
- 11867 strings out of 477486
- 182611 string characters out of 5813755
- 1929244 words of memory out of 5000000
- 32669 multiletter control sequences out of 15000+600000
+ 12553 strings out of 477486
+ 196844 string characters out of 5813755
+ 1928244 words of memory out of 5000000
+ 33295 multiletter control sequences out of 15000+600000
  570568 words of font info for 70 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 110i,6n,107p,418b,439s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 110i,7n,107p,475b,561s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/prlpnrpph512/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/e
 cbx1200.pk> </home/prlpnrpph512/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec
 /dpi600/ecrm1000.pk> </home/prlpnrpph512/.miktex/texmfs/data/fonts/pk/ljfour/jk
@@ -474,17 +747,14 @@ fonts/pk/ljfour/jknappen/ec/dpi600/ecbx0900.pk> </home/prlpnrpph512/.miktex/tex
 mfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk> </home/prlpnrpph512/.m
 iktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1728.pk></home/prlpnrp
 ph512/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/p
-rlpnrpph512/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi5.pfb></h
-ome/prlpnrpph512/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pf
+rlpnrpph512/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></h
+ome/prlpnrpph512/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pf
 b></home/prlpnrpph512/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr
-10.pfb></home/prlpnrpph512/.miktex/texmfs/install/fonts/type1/public/amsfonts/c
-m/cmr5.pfb></home/prlpnrpph512/.miktex/texmfs/install/fonts/type1/public/amsfon
-ts/cm/cmr7.pfb></home/prlpnrpph512/.miktex/texmfs/install/fonts/type1/public/am
-sfonts/cm/cmsy10.pfb></home/prlpnrpph512/.miktex/texmfs/install/fonts/type1/pub
-lic/amsfonts/cm/cmsy5.pfb>
-Output written on doc.pdf (2 pages, 145434 bytes).
+7.pfb></home/prlpnrpph512/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm
+/cmsy10.pfb>
+Output written on doc.pdf (12 pages, 1330585 bytes).
 PDF statistics:
- 307 PDF objects out of 1000 (max. 8388607)
- 15 named destinations out of 1000 (max. 500000)
- 57 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 471 PDF objects out of 1000 (max. 8388607)
+ 53 named destinations out of 1000 (max. 500000)
+ 235 words of extra memory for PDF output out of 10000 (max. 10000000)
 

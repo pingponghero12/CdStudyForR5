@@ -7,8 +7,6 @@ Scanning style file /home/prlpnrpph512/.miktex/texmfs/install/makeindex/nomencl/
 ** Input style error (file = /home/prlpnrpph512/.miktex/texmfs/install/makeindex/nomencl/nomencl.ist, line = 38):
    -- Unknown specifier lethead_flag.
 ....done (12 attributes redefined, 3 ignored).
-Scanning input file doc.nlo....done (9 entries accepted, 0 rejected).
-Sorting entries....done (35 comparisons).
-Generating output file doc.nls....done (14 lines written, 0 warnings).
-Output written in doc.nls.
+Scanning input file doc.nlo...done (0 entries accepted, 0 rejected).
+Nothing written in doc.nlo.
 Transcript written in doc.ilg.
