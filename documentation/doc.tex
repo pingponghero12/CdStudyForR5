@@ -137,6 +137,13 @@ After testing phase final simulations were conducted. For Range of 0 - 2.5 Mach 
 \label{fig:FinalMESH}
 \end{figure}
 
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\textwidth]{Final50Domain}
+    \caption{Computational Domain}
+    \label{fig:Final50Domain}
+    \end{figure}
+
 \subsection{Mach 1 flow}
 \begin{figure}[H]
 \centering
@@ -182,10 +189,44 @@ After testing phase final simulations were conducted. For Range of 0 - 2.5 Mach 
 \label{fig:Final25Pressure}
 \end{figure}
 
+\newpage
 \section{Parametric study for high mach}
-This parametric study was once again conducted for limited set of Mach values, starting from 3.0 to 5.0 with step equal to 0.5 Mach. The high mach setting was on for this series of simulations.
+This parametric study was once again conducted for limited set of Mach values, 
+starting from 3.0 to 5.0 with step equal to 0.5 Mach. The high mach setting was on for this 
+series of simulations. \\\\
+Important highlight is that when chaning from low mach to high mach setting, mesh will be generated 
+in a different way, which will have more cells.
 
+\subsection{Mesh settings}
+Following mesh was used for this series of simulations. Total number of cells was 195 750 and number of
+fluid cells containing solids was 19 164. 
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\textwidth]{Final50Mesh}
+    \caption{Mesh visualisation}
+    \label{fig:Final50MESH}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\textwidth]{Final50Mesh1}
+    \caption{Mesh visualisation from other angle}
+    \label{fig:Final50MESH1}
+    \end{figure}
 \subsection{Mach 5 flow}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\textwidth]{Final50Speed}
+    \caption{Mach 5 velocity graph}
+    \label{fig:Final50Speed}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\textwidth]{Final50Pressure}
+    \caption{Mach 5 pressure graph}
+    \label{fig:Final50Pressure}
+\end{figure}
 
 \section{Results}
 \subsection{General information}
